@@ -1,0 +1,181 @@
+html,body{
+	margin: 0;
+	scroll-behavior: smooth;
+	font-family: 'Oswald', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body.backgroundimg {
+    background: url(images/bg.jpg);
+    background-size: cover;
+}
+h1 {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-weight: 900;
+    color: white;
+}
+.loginbox {
+    width: 400px;
+    height: 60vH;
+    background: #66cce5d4;
+    margin: 107px auto;
+    text-align: center;
+}
+p.lblinput {
+    margin-top: 5px;
+    margin-bottom: 2px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+p.warnlogin {
+    color: white;
+    text-decoration-line: underline;
+}
+input.btninput {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 80%;
+    height: 5vH;
+    outline: none;
+    font-size: 20px;
+}
+input.btnlogin {
+    width: 50%;
+    font-family: 'Oswald', sans-serif;
+    height: 6vH;
+    border: 2px solid black;
+    margin: 45px 0 0 0;
+    font-size: 20px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    float: right;
+    margin-right: 10%;
+}
+li {
+    margin-right: 20px;
+    font-size: 25px;
+}
+.navdash {
+    background: black;
+    width: 100%;
+    height: 10vH;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+h1.clrblk {
+    color: black;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 70%;
+    height: 5vH;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input.searchbar {
+    margin-left: 30%;
+    width: 25%;
+    height: 5vH;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+input.searchbtn {
+    padding: 0;
+    width: 10%;
+    margin-left: 0;
+    background: white;
+    text-indent: 0;
+    font-family: 'Oswald', sans-serif;
+}
+tr {
+    height: 50px;
+    border: 2px solid black;
+}
+tr:nth-child(even) {
+    background: #ebebeb;
+}
+.divstbox1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p.inputlbl {
+    width: 60px;
+    text-align: end;
+}
+input.inputstock {
+    width: 20%;
+    height: 30px;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+	font-size: 20px;
+    text-indent: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+input.btnsubmit {
+    width: 15%;
+    height: 50px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Oswald', sans-serif;
+}
+.selectinputstock {
+    width: 20%;
+    height: 30px;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;
+    text-indent: 5px;
+    font-family: 'Oswald', sans-serif;
+}a.tda {
+    background: green;
+    margin-left: 5px;
+    padding: 2px;
+    border: 2px solid black;
+}
+a.tda1 {
+    background: red;
+}
+a.tda:hover {
+    color: black;
+}
+p.plink {
+    margin-left: 22%;
+}
+a.alink {
+    color: black;
+}
+a.alink1 {
+    color: white;
+}
+a.alink:hover {
+    color: red;
+}
