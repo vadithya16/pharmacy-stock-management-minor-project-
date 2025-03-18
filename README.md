@@ -1,24 +1,29 @@
-Introduction:
-Pharmacy stock management is a minor project in PHP Which focuses mainly on Medicine stock management. It is a web-based application using MySQL. A shopkeeper can Add, View, Delete, Extract Expired Medicines Details, and Search for Medicines Details.
-Purpose:
-❖ To be able to Enter Medicines Stock Details with Expired Date
-❖ Very Easy UI to Pharmacy Shopkeepers
-❖ Shopkeeper can Search Medicines Stock Available or Not
-❖ Shopkeeper will get Separate Expired Medicines Section
+# Pharmacy Stock Management System
 
-Users of project:
-Admin:
-Admin has several features like:
-✓ Access to Enter Stock Medicines Details
-✓ Search the stock List to Find Medicine Available or not
-✓ Edit and Delete if Any Record Needed
-Features of the project:
-➢ For Stock Control Admin Need to Login with Given Login Credentials
-➢ A shopkeeper can Enter the Name of The Medicines, Quantity, Per Unit Price, Batch, Expiry Date, and Category of the Medicines
-➢ A shopkeeper can Search for Medicines If Available it shows Name, Quantity, Per Unit Price, Batch, Expiry, and Category Details.
-➢ If Medicine is Not Available It Goes to Stock Entry Page
-➢ In the Expired Medicines Section Also Shopkeeper Can Search for Medicines
-➢ A shopkeeper can Search using Name, Quantity, Price, Batch, Expired Date, and Category.
+This is a Pharmacy Stock Management System designed to help pharmacies efficiently manage their inventory, track stock levels, and streamline the ordering process. This project is a minor project developed as part of academic learning.
 
-Conclusion:
-The Pharmacy stock management, helps to digitalise stock entry. Shopkeepers can easily Add, View, Delete, Edit Stock Details with very minimal work. It is working product removes Traditional Book Stock records to start digital solution. But it is not fully developed application, in future we can add invoice section and other sections also.
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+
+## About the Project
+The Pharmacy Stock Management System aims to digitize and optimize the stock-keeping process for pharmacies. It allows pharmacists to keep track of medicine inventory, view stock levels, and update medicine details. The system helps in reducing manual errors and ensuring efficient stock management.
+
+## Features
+- Add, edit, and delete medicines from the inventory
+- View available stock levels
+- Search for medicines by name or category
+- Track expiry dates to prevent outdated stock
+- User-friendly interface for easy management
+
+## Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+
+## Contact
+For any queries regarding this project, feel free to reach out:
+- **Developer:** V Adithya
+- **GitHub:** [vadithya16](https://github.com/vadithya16)
